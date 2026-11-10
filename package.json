@@ -1,0 +1,15 @@
+{
+  "name": "octago",
+  "version": "0.2.0",
+  "private": true,
+  "description": "8x8 eight-direction card chain reaction prototype",
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "package:server": "node scripts/package-server.cjs",
+    "test:ui": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}

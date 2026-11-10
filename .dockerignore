@@ -1,0 +1,12 @@
+**
+!Dockerfile
+!package.json
+!server.cjs
+!leaderboard.cjs
+!engine.js
+!platform.js
+!index.html
+!style.css
+!app.js
+!lobby.js
+!config.js

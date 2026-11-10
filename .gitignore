@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+test-results/
+playwright-report/
+artifacts/
+data/
+.railway/
+.env
+.env.*
